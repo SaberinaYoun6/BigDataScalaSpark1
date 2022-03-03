@@ -3,6 +3,8 @@ https://docs.scala-lang.org/tour/tour-of-scala.html
 
 //types
 https://docs.scala-lang.org/tour/unified-types.html
+//type : sizing 
+https://www.baeldung.com/scala/data-types
 
 //especially end for functions, equivalence statements
 https://docs.scala-lang.org/style/declarations.html
@@ -46,9 +48,3 @@ https://www.scala-lang.org/api/2.13.3/scala/Array.html
 
 //case pattern matching
 https://docs.scala-lang.org/tour/pattern-matching.html
-
-//store function references in Maps
-https://alvinalexander.com/scala/how-to-put-scala-function-reference-in-map-value/
-
-//Companion Objects
-https://docs.scala-lang.org/overviews/scala-book/companion-objects.html
